@@ -33,7 +33,7 @@ Modern, şık ve kullanıcı dostu bir URL kısaltma uygulaması. Next.js ve Tai
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/yourusername/url-shorter.git
+git clone https://github.com/emregncc7/urlShorter.git
 cd url-shorter
 ```
 
