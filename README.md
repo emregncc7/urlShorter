@@ -63,10 +63,10 @@ yarn dev
 ## 📱 Ekran Görüntüleri
 
 ### Masaüstü
-![Masaüstü Görünümü](https://raw.githubusercontent.com/emregncc7/url-shorter/main/public/desktop.png)
+![Masaüstü Görünümü](https://raw.githubusercontent.com/emregncc7/urlShorter/main/public/desktop.png)
 
 ### Mobil
-![Mobil Görünüm](https://raw.githubusercontent.com/emregncc7/url-shorter/main/public/mobile.png)
+![Mobil Görünüm](https://raw.githubusercontent.com/emregncc7/urlShorter/main/public/mobile.png)
 
 ## 🤝 Katkıda Bulunma
 
