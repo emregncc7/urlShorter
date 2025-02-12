@@ -1,36 +1,93 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🔗 Modern URL Kısaltıcı
 
-## Getting Started
+Modern, şık ve kullanıcı dostu bir URL kısaltma uygulaması. Next.js ve TailwindCSS ile geliştirilmiş, minimalist tasarıma sahip bir web uygulaması.
 
-First, run the development server:
+![Modern URL Kısaltıcı](https://raw.githubusercontent.com/yourusername/url-shorter/main/public/preview.png)
 
+## ✨ Özellikler
+
+- 🚀 Hızlı ve anlık URL kısaltma
+- 📱 Tam responsive tasarım
+- 🎨 Modern ve minimalist arayüz
+- 📋 Tek tıkla kopyalama
+- 🔄 Gerçek zamanlı QR kod oluşturma
+- 🌐 TinyURL API entegrasyonu
+- 🎯 SEO dostu
+
+## 🛠️ Teknolojiler
+
+- [Next.js 14](https://nextjs.org/) - React Framework
+- [TailwindCSS](https://tailwindcss.com/) - Stil kütüphanesi
+- [TypeScript](https://www.typescriptlang.org/) - Tip güvenli JavaScript
+- [TinyURL API](https://tinyurl.com/app/dev) - URL kısaltma servisi
+- [Hero Icons](https://heroicons.com/) - SVG ikonlar
+- [QRCode.react](https://www.npmjs.com/package/qrcode.react) - QR kod oluşturma
+
+## 🚀 Başlangıç
+
+### Gereksinimler
+
+- Node.js 18.0 veya üzeri
+- npm veya yarn
+
+### Kurulum
+
+1. Projeyi klonlayın:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/yourusername/url-shorter.git
+cd url-shorter
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Bağımlılıkları yükleyin:
+```bash
+npm install
+# veya
+yarn install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Geliştirme sunucusunu başlatın:
+```bash
+npm run dev
+# veya
+yarn dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresini açın.
 
-## Learn More
+## 🎨 Renk Paleti
 
-To learn more about Next.js, take a look at the following resources:
+- Arka plan: `#1D1616`
+- Butonlar: `#8E1616`
+- Vurgu rengi: `#D84040`
+- Metin: `#EEEEEE`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📱 Ekran Görüntüleri
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Masaüstü
+![Masaüstü Görünümü](https://raw.githubusercontent.com/yourusername/url-shorter/main/public/desktop.png)
 
-## Deploy on Vercel
+### Mobil
+![Mobil Görünüm](https://raw.githubusercontent.com/yourusername/url-shorter/main/public/mobile.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🤝 Katkıda Bulunma
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Bu projeyi fork edin
+2. Feature branch'i oluşturun (`git checkout -b feature/AmazingFeature`)
+3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`)
+4. Branch'inize push edin (`git push origin feature/AmazingFeature`)
+5. Pull Request oluşturun
+
+## 📝 Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
+
+## 👏 Teşekkürler
+
+- [Next.js](https://nextjs.org/) ekibine
+- [TailwindCSS](https://tailwindcss.com/) ekibine
+- [TinyURL](https://tinyurl.com/) ekibine
+- Ve tüm açık kaynak topluluğuna
+
+---
+
+⭐️ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
