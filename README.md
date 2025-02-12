@@ -2,7 +2,6 @@
 
 Modern, şık ve kullanıcı dostu bir URL kısaltma uygulaması. Next.js ve TailwindCSS ile geliştirilmiş, minimalist tasarıma sahip bir web uygulaması.
 
-![Modern URL Kısaltıcı](https://raw.githubusercontent.com/yourusername/url-shorter/main/public/preview.png)
 
 ## ✨ Özellikler
 
